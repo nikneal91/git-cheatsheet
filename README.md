@@ -1,2 +1,2 @@
 # git-cheatsheet
-Git cheat sheet demo
+Git cheat sheet demo. 
